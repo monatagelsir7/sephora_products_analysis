@@ -4,9 +4,12 @@ The target audience for this memo is the Chief Marketing Officer at Sephora, Zen
 ### Audience Background:
 **Role**: Senior leader responsible for making strategic decisions on product promotions, inventory
 allocation, and campaign performance.
+
 **Time Constraints**: Highly time-constrained, accustomed to concise presentations or executive summaries; likely to scan focused reports and visualizations rather than read detailed analysis.
+
 **Domain Knowledge**: Deep familiarity with Sephora’s product lines and overall beauty retail industry, but not directly involved with day-to-day data analysis. But she has a bachelor in computer science, so she
 has some rich statistical knowledge.
+
 **Technical Knowledge**: Comfortable interpreting basic metrics, charts, and trends, and intermediate modeling or statistical jargon.
 ### Selected Dataset:
 We will use the Sephora All Products Dataset, which includes numerical variables (such as price, ratings,
